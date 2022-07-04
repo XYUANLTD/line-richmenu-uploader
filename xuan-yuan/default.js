@@ -13,7 +13,7 @@ module.exports = {
         bounds: { x: 0, y: 0, width: 833, height: 843 },
         action: {
           type: 'uri',
-          uri: 'https://maps.app.goo.gl/R5y1M6L44w5EmH2Z7,
+          uri: 'https://maps.app.goo.gl/R5y1M6L44w5EmH2Z7',
         },
       },
       { // 洽詢內容
